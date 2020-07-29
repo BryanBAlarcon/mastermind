@@ -1,0 +1,5 @@
+﻿  Mastermind.cpp
+e:\dell latitude\chrome downloads\mastermind final\matermind\matermind\combination.h(59): warning C4244: 'initializing': conversion from 'time_t' to 'long', possible loss of data
+e:\dell latitude\chrome downloads\mastermind final\matermind\matermind\mastermind.cpp(47): warning C4101: 'x': unreferenced local variable
+e:\dell latitude\chrome downloads\mastermind final\matermind\matermind\mastermind.cpp(274): warning C4101: 'x': unreferenced local variable
+  Matermind.vcxproj -> E:\Dell Latitude\Chrome Downloads\Mastermind Final\Matermind\Debug\Matermind.exe
